@@ -1,0 +1,13 @@
+mindfulai-app/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ pages/
+│  │  ├─ Home.jsx
+│  │  ├─ Premium.jsx
+│  │  └─ UserNotRegisteredError.jsx
+│  ├─ App.jsx
+│  └─ main.jsx
+├─ package.json
+├─ vite.config.js
+└─ tailwind.config.cjs
